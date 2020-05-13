@@ -1,0 +1,17 @@
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\Rectangle.test.deps.json
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\Rectangle.test.runtimeconfig.json
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\Rectangle.test.runtimeconfig.dev.json
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\Rectangle.test.dll
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\Rectangle.test.pdb
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\Shapes.dll
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\Shapes.pdb
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\obj\Debug\netcoreapp2.2\Rectangle.test.csprojAssemblyReference.cache
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\obj\Debug\netcoreapp2.2\Rectangle.test.csproj.CoreCompileInputs.cache
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\obj\Debug\netcoreapp2.2\Rectangle.test.AssemblyInfoInputs.cache
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\obj\Debug\netcoreapp2.2\Rectangle.test.AssemblyInfo.cs
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\obj\Debug\netcoreapp2.2\Rectangle.test.csproj.CopyComplete
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\obj\Debug\netcoreapp2.2\Rectangle.test.dll
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\obj\Debug\netcoreapp2.2\Rectangle.test.pdb
