@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes.tests\\shapes.test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes.tests\\shapes.test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes.tests\\shapes.test.csproj",
+        "projectName": "shapes.test",
+        "projectPath": "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes.tests\\shapes.test.csproj",
+        "packagesPath": "C:\\Users\\maili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes.tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maili\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes\\shapes.csproj": {
+                "projectPath": "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes\\shapes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes\\shapes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes\\shapes.csproj",
+        "projectName": "shapes",
+        "projectPath": "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes\\shapes.csproj",
+        "packagesPath": "C:\\Users\\maili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maili\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

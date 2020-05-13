@@ -1,0 +1,9 @@
+C:\Users\maili\github\shapes\shapes.solution\shapes\bin\Debug\netcoreapp2.2\shapes.deps.json
+C:\Users\maili\github\shapes\shapes.solution\shapes\bin\Debug\netcoreapp2.2\shapes.dll
+C:\Users\maili\github\shapes\shapes.solution\shapes\bin\Debug\netcoreapp2.2\shapes.pdb
+C:\Users\maili\github\shapes\shapes.solution\shapes\obj\Debug\netcoreapp2.2\shapes.csprojAssemblyReference.cache
+C:\Users\maili\github\shapes\shapes.solution\shapes\obj\Debug\netcoreapp2.2\shapes.csproj.CoreCompileInputs.cache
+C:\Users\maili\github\shapes\shapes.solution\shapes\obj\Debug\netcoreapp2.2\shapes.AssemblyInfoInputs.cache
+C:\Users\maili\github\shapes\shapes.solution\shapes\obj\Debug\netcoreapp2.2\shapes.AssemblyInfo.cs
+C:\Users\maili\github\shapes\shapes.solution\shapes\obj\Debug\netcoreapp2.2\shapes.dll
+C:\Users\maili\github\shapes\shapes.solution\shapes\obj\Debug\netcoreapp2.2\shapes.pdb

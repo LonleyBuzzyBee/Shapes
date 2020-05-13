@@ -1,0 +1,17 @@
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\shapes.test.deps.json
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\shapes.test.runtimeconfig.json
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\shapes.test.runtimeconfig.dev.json
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\shapes.test.dll
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\shapes.test.pdb
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\shapes.dll
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\bin\Debug\netcoreapp2.2\shapes.pdb
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\obj\Debug\netcoreapp2.2\shapes.test.csprojAssemblyReference.cache
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\obj\Debug\netcoreapp2.2\shapes.test.csproj.CoreCompileInputs.cache
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\obj\Debug\netcoreapp2.2\shapes.test.AssemblyInfoInputs.cache
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\obj\Debug\netcoreapp2.2\shapes.test.AssemblyInfo.cs
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\obj\Debug\netcoreapp2.2\shapes.test.csproj.CopyComplete
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\obj\Debug\netcoreapp2.2\shapes.test.dll
+C:\Users\maili\github\shapes\shapes.solution\shapes.tests\obj\Debug\netcoreapp2.2\shapes.test.pdb

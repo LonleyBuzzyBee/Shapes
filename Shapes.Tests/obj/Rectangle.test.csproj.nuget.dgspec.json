@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes.tests\\Rectangle.test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes.tests\\Rectangle.test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes.tests\\Rectangle.test.csproj",
+        "projectName": "Rectangle.test",
+        "projectPath": "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes.tests\\Rectangle.test.csproj",
+        "packagesPath": "C:\\Users\\maili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maili\\github\\shapes\\shapes.solution\\shapes.tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maili\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\maili\\github\\shapes\\shapes.solution\\Shapes\\Shapes.csproj": {
+                "projectPath": "C:\\Users\\maili\\github\\shapes\\shapes.solution\\Shapes\\Shapes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\maili\\github\\shapes\\shapes.solution\\Shapes\\Shapes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maili\\github\\shapes\\shapes.solution\\Shapes\\Shapes.csproj",
+        "projectName": "Shapes",
+        "projectPath": "C:\\Users\\maili\\github\\shapes\\shapes.solution\\Shapes\\Shapes.csproj",
+        "packagesPath": "C:\\Users\\maili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maili\\github\\shapes\\shapes.solution\\Shapes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maili\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
