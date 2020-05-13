@@ -15,5 +15,10 @@ namespace Shapes.Models
 
       return (1.3) * (3.14) * (length * length * length);
     }
+    public double GetSurface(){
+
+      int length = Face.Radius;
+      return 4*(3.14)*(length*length);
+    } 
   }
 }

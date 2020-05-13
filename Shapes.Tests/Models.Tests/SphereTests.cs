@@ -19,5 +19,18 @@ namespace Shapes.Tests
       Assert.AreEqual(result, 110.214);
 
     }
+    [TestMethod]
+    public void Sphere_GetSurface()
+    {
+      //arrange
+      Circle newCircle = new Circle(3);
+      Sphere newSphere = new Sphere(newCircle);
+      //act
+      double result1 = Math.Round(newSphere.GetSurface(),3);
+      Console.WriteLine(result1 + " ---");
+      //assert
+      Assert.AreEqual(result1, 113.04);
+
+    }
   }
 }
