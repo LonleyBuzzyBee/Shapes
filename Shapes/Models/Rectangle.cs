@@ -16,14 +16,14 @@ namespace Shapes.Models
     }
     public bool IsSquare()
     {
-      if (Length == Width)
-      }
+      if(Length == Width)
+      {
         return true;
-      {
-     else
       }
-      return false;
+      else
       {
+        return false;
+      }
     }
   }
 }
